@@ -2265,8 +2265,8 @@ section#education .main_title h2, section#project .main_title h2 {
 
         li.language-btn a {
             line-height: 26px !important;
-            top: 30%;
-            border: 1px solid #f7f7f7;
+            top: 10%;
+            border: 0px solid #ffffff;
             font-size: 11px;
             padding: 0px 0px !important;
             width: 75px;
